@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = simon@herout.eu
+	name = Simon Herout
